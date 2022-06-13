@@ -6,7 +6,7 @@ I am a motivated junior developer, driven to further enhance and consolidate my 
 
 **Tech Skills** : Ruby, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Heroku, Github Actions (CI/CD)
 
-**Please find my CV here:** [Monica Navarro CV]() <br>
+**Please find my CV here:** [Monica Navarro CV](https://github.com/monenavarro/CV/blob/master/MONICA%20NAVARRO%20CV.pdf) <br> 
 
 ### Projects:
 
