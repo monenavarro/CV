@@ -2,7 +2,7 @@
 
 A previous midwife, excited to be at the deployment stage of my new career! I relish in the intuitive, creative and problem-solving nature of coding.
 
-I am a motivated junior developer, driven to further enhance and consolidate my skills whilst gaining new skills.  A recent Makers Academy graduate, which has made me grow from a curious amateur coder- to a confident and competent full-stack developer. Keen to work as part of a collaborative and driven team; to attain invaluable knowledge, experience and insight of the dynamic world of technology.
+I am a motivated junior developer, driven to further enhance and consolidate my skills whilst gaining new skills.  A recent Makers Academy graduate, which has made me grow from a curious amateur coder- to a confident and competent developer. Keen to work as part of a collaborative and driven team; to attain invaluable knowledge, experience and insight of the dynamic world of technology.
 
 **Tech Skills** : Ruby, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Heroku, Github Actions (CI/CD)
 
