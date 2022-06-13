@@ -4,7 +4,7 @@ A previous midwife, excited to be at the deployment stage of my new career! I re
 
 I am a motivated junior developer, driven to further enhance and consolidate my skills whilst gaining new skills.  A recent Makers Academy graduate, which has made me grow from a curious amateur coder- to a confident and competent developer. Keen to work as part of a collaborative and driven team; to attain invaluable knowledge, experience and insight of the dynamic world of technology.
 
-**Tech Skills** : Ruby, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Heroku, Github Actions (CI/CD)
+**Tech Skills**: Ruby, JavaScript, React, MongoDB, PostgreSQL, Node.js, Express, HTML, CSS, Heroku, Github Actions (CI/CD)
 
 **Please find my CV here:** [Monica Navarro CV](https://github.com/monenavarro/CV/blob/master/MONICA%20NAVARRO%20CV.pdf) <br> 
 
