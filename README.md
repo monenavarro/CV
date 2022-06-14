@@ -69,7 +69,7 @@ Welcomed all of the pilgrims with a "Red Carpet: Redshirts holding rainbow umbre
 ## Skills
 
 #### Communication
-I pride myself in having the skills to build a strong rapport with the people that I interact with, due to my background in healthcare. Effective verbal and written communication skills are integral in client satisfaction, effective collaborative teams and for professional development. Furthermore, communication skills are critical in maintaining harmonious working relationships in a fast-paced environment. I am also aware of the importance of being an active and empathic listener, in order to be an excellent communicator. 
+I pride myself in having the skills to build a strong rapport with the people that I interact with, due to my background in healthcare. Effective verbal and written communication skills are integral in client satisfaction, successful collaborative teams and for professional development. Furthermore, communication skills are critical in maintaining harmonious working relationships in a fast-paced environment. I am also aware of the importance of being an active and empathic listener, in order to be an excellent communicator. 
 My understanding of this has been very beneficial during Makers, since it enabled me to build rapport with other members of my engineering team, whilst working under pressure to meet project deadlines.
 
 #### Aptitude for Learning
