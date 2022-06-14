@@ -99,7 +99,7 @@ Having worked as a midwife in London, I have had rich exposure in working with p
 
 - BSc(Hons) Midwifery
 - First Class Honours 
-- 2+years experience as an NHS Midwife
+- 2+years experience as a NHS Midwife
 
 #### Languages
 
